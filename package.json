@@ -1,0 +1,26 @@
+{
+  "name": "artificial-studio-skills",
+  "version": "1.0.0",
+  "description": "Agent skills for integrating the Artificial Studio API — generate images, videos, audio, 3D models, and text with AI. Compatible with 34+ AI coding agents.",
+  "keywords": [
+    "agent-skill",
+    "artificial-studio",
+    "ai",
+    "image-generation",
+    "video-generation",
+    "audio-generation",
+    "3d-generation",
+    "text-to-speech",
+    "api",
+    "claude-code",
+    "cursor",
+    "copilot",
+    "gemini-cli",
+    "codex"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/artificialstudio/skills"
+  }
+}
