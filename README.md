@@ -58,7 +58,7 @@ npx skills add Artificial-Studio/skills --agent copilot
 ## Setup
 
 1. Create an account at [artificialstudio.ai](https://artificialstudio.ai)
-2. Get your API key at [Settings > API Keys](https://artificialstudio.ai/settings/api-keys)
+2. Get your API key at [Settings > API Keys](https://app.artificialstudio.ai/account/api-keys)
 3. When your agent asks, provide your API key
 
 ## What can you do with these skills?

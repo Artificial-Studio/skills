@@ -17,7 +17,7 @@ All requests require an API key in the `Authorization` header (no `Bearer` prefi
 
 1. First, check the environment variable `ARTIFICIAL_STUDIO_API_KEY`. If it's set, use it automatically.
 2. If not set, ask the user for their API key before making any request.
-3. Tell them they can get a key at https://artificialstudio.ai/settings/api-keys
+3. Tell them they can get a key at https://app.artificialstudio.ai/account/api-keys
 4. Suggest: `export ARTIFICIAL_STUDIO_API_KEY=your_key_here`
 
 ## Base URL

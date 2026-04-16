@@ -27,7 +27,7 @@ Authorization: YOUR_API_KEY
 
 1. First, check the environment variable `ARTIFICIAL_STUDIO_API_KEY`. If it's set, use it automatically.
 2. If the environment variable is not set, ask the user for their API key before making any request.
-3. Tell the user they can get a key at https://artificialstudio.ai/settings/api-keys
+3. Tell the user they can get a key at https://app.artificialstudio.ai/account/api-keys
 4. Suggest they set it permanently with: `export ARTIFICIAL_STUDIO_API_KEY=your_key_here` (add to `.bashrc`/`.zshrc` for persistence).
 
 Never hardcode the key in source code.
