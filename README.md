@@ -9,40 +9,40 @@ Compatible with **34+ agents** including Claude Code, Cursor, GitHub Copilot, Ge
 ### Install all skills
 
 ```bash
-npx skills add artificialstudio/skills
+npx skills add Artificial-Studio/skills
 ```
 
 ### Install specific skills
 
 ```bash
 # Only image generation & editing
-npx skills add artificialstudio/skills --skill artificial-studio-image
+npx skills add Artificial-Studio/skills --skill artificial-studio-image
 
 # Only video generation & editing
-npx skills add artificialstudio/skills --skill artificial-studio-video
+npx skills add Artificial-Studio/skills --skill artificial-studio-video
 
 # Only audio generation & processing
-npx skills add artificialstudio/skills --skill artificial-studio-audio
+npx skills add Artificial-Studio/skills --skill artificial-studio-audio
 
 # Only 3D object generation
-npx skills add artificialstudio/skills --skill artificial-studio-3d
+npx skills add Artificial-Studio/skills --skill artificial-studio-3d
 
 # The general skill (covers everything)
-npx skills add artificialstudio/skills --skill artificial-studio
+npx skills add Artificial-Studio/skills --skill artificial-studio
 ```
 
 ### Install globally (available in all projects)
 
 ```bash
-npx skills add artificialstudio/skills -g
+npx skills add Artificial-Studio/skills -g
 ```
 
 ### Install for a specific agent
 
 ```bash
-npx skills add artificialstudio/skills --agent claude
-npx skills add artificialstudio/skills --agent cursor
-npx skills add artificialstudio/skills --agent copilot
+npx skills add Artificial-Studio/skills --agent claude
+npx skills add Artificial-Studio/skills --agent cursor
+npx skills add Artificial-Studio/skills --agent copilot
 ```
 
 ## Available Skills
